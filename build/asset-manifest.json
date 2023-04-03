@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.501850b7.css",
+    "main.js": "/static/js/main.62917759.js",
+    "static/media/blog-1.png": "/static/media/blog-1.087d3861dad7d9c08e00.png",
+    "static/media/blog-3.png": "/static/media/blog-3.850846ea3714c9b046f6.png",
+    "static/media/blog-2.png": "/static/media/blog-2.3b2df34eeacdf465f11f.png",
+    "static/media/banner-img.png": "/static/media/banner-img.067a622d2fa05d03314b.png",
+    "static/media/Asgaardsofa1.png": "/static/media/Asgaardsofa1.420759d9dc52b1c4805b.png",
+    "static/media/HomeHeroCauch.png": "/static/media/HomeHeroCauch.8bd64e1696a9241b10e6.png",
+    "static/media/ourblogpic2.png": "/static/media/ourblogpic2.0359d7ed9d1db2eb8ecb.png",
+    "static/media/ourblogpic3.png": "/static/media/ourblogpic3.7c384daaee09327b3aaa.png",
+    "static/media/ourIGbanner.png": "/static/media/ourIGbanner.caeef7d5249a1ce6adf2.png",
+    "static/media/ourblogpic1.png": "/static/media/ourblogpic1.cc47316c18530b7034ff.png",
+    "static/media/Homecauch.png": "/static/media/Homecauch.dbd184b7179d1af6c63e.png",
+    "static/media/HomeTable1.png": "/static/media/HomeTable1.43021e12d1b44ceda042.png",
+    "static/media/Maskgroup3.png": "/static/media/Maskgroup3.58b59147f0b790df4c4f.png",
+    "static/media/Maskgroup14.png": "/static/media/Maskgroup14.50c3baa8d24677e58dad.png",
+    "static/media/Maskgroup7.png": "/static/media/Maskgroup7.663019b98e0f020095eb.png",
+    "static/media/Maskgroup1.png": "/static/media/Maskgroup1.ab0c622c494e397d336b.png",
+    "static/media/Maskgroup15.png": "/static/media/Maskgroup15.e2014fe051af5deee2d7.png",
+    "static/media/Maskgroup2.png": "/static/media/Maskgroup2.4ab63d658cce114fe2f8.png",
+    "static/media/Maskgroup5.png": "/static/media/Maskgroup5.898b8a7789de899c4d1e.png",
+    "static/media/Maskgroup6.png": "/static/media/Maskgroup6.2d7f89d48ec07ec5d160.png",
+    "static/media/Maskgroup9.png": "/static/media/Maskgroup9.5938ac99482de2ad420a.png",
+    "static/media/Maskgroup10.png": "/static/media/Maskgroup10.6781f9046ae6047f251d.png",
+    "static/media/Maskgroup11.png": "/static/media/Maskgroup11.887ec9339306e5d6f2ee.png",
+    "static/media/Maskgroup12.png": "/static/media/Maskgroup12.98c687ff020d8e97359d.png",
+    "static/media/Maskgroup13.png": "/static/media/Maskgroup13.5c4f4f4ac87c8ab1e2b7.png",
+    "static/media/Maskgroup8.png": "/static/media/Maskgroup8.89b39c0e6d366756f278.png",
+    "static/media/Maskgroup4.png": "/static/media/Maskgroup4.1be229557aea16f0d245.png",
+    "index.html": "/index.html",
+    "main.501850b7.css.map": "/static/css/main.501850b7.css.map",
+    "main.62917759.js.map": "/static/js/main.62917759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.501850b7.css",
+    "static/js/main.62917759.js"
+  ]
+}
